@@ -9,7 +9,7 @@ I have this simple project with:
 </dependency>
 ```
 
-I am trying to make `LocalDateTime` to be written in ISO format: ``
+I am trying to make `LocalDateTime` to be written in ISO format.
 
 I tried to add `spring.jackson.serialization.write-dates-as-timestamps=false`
 
