@@ -1,0 +1,1 @@
+# jackson-load-modules-issue
